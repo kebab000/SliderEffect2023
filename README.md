@@ -1,6 +1,6 @@
 # ✍️ JAVASCRIPT : SLIDE EFFECT
 
-![slide01](https://github.com/YeoDaSeul4355/SlideEffect/assets/125419623/62e4da96-26c2-425b-92ca-6ce453450087)
+![slide01](https://raw.githubusercontent.com/kebab000/SliderEffect2023/main/img/sliderEffect.png)
 
 <br><br>
 
