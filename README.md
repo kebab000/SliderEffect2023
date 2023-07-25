@@ -1,4 +1,4 @@
-# ✍️ JAVASCRIPT : SLIDE EFFECT
+# JAVASCRIPT : SLIDE EFFECT
 
 ![slide01](https://raw.githubusercontent.com/kebab000/SliderEffect2023/main/img/sliderEffect.png)
 
@@ -7,8 +7,6 @@
 > View Site : https://kebab000.github.io/web2023/javascript/slider/sliderEffect01.html
 
 <br><br>
-
-## 소개
 
 자바스크립트를 활용하여 슬라이드 이펙트를 구현한 웹 페이지를 소개합니다. 이 슬라이드 이펙트는 사용자가 웹 페이지를 스크롤하거나 버튼을 클릭할 때 발동됩니다. 슬라이드가 활성화되면 이전 내용은 서서히 사라지고, 새로운 내용이 부드럽게 나타납니다. 또한, 자동으로 이미지가 전환되도록 자동 재생 기능을 추가하여 사용자의 상호 작용 없이도 멋진 이미지 슬라이드 쇼를 즐길 수 있습니다.
 이 이펙트를 통해 javascript의 메서드 (setInterval, setTimeOut, 반복문)과 GSAP, jQuery를 학습하였습니다.
